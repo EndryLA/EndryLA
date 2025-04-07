@@ -3,7 +3,7 @@ I'm a FullStack Developper from France, specialized in creating beautiful, high 
 
 
 ### Tech Stack / Skills
-Front End
+#### Front End
 <p>  
   <img src="/stack-logos/html.svg" alt="HTML" width="60" height="60" margin="0" padding="0"/> 
   <img src="/stack-logos/css.svg" alt="CSS" width="60" height="60" margin="0" padding="0"/> 
@@ -12,7 +12,7 @@ Front End
   <img src="/stack-logos/bootstrap.svg" alt="Bootstrap" width="60" height="60" margin="0" padding="0"/> 
 </p>
 
-Back End
+#### Back End
 
 <p align="left">  
   <img src="/stack-logos/java.svg" alt="Java" width="60" height="60" margin="0" padding="0"/> 
@@ -23,7 +23,7 @@ Back End
   <img src="/stack-logos/express.svg" alt="Express" width="60" height="60" margin="0" padding="0"/> 
 </p>
 
-Tools
+#### Tools
 
 <p align="left">  
   <img src="/stack-logos/git.svg" alt="Git" width="60" height="60" margin="0" padding="0"/> 
@@ -32,3 +32,11 @@ Tools
   <img src="/stack-logos/postman.svg" alt="Postman" width="60" height="60" margin="0" padding="0"/> 
   <img src="/stack-logos/jira.svg" alt="Jira" width="60" height="60" margin="0" padding="0"/> 
 </p>
+
+#### UX / UI Design
+
+<p align="left">  
+  <img src="/stack-logos/figma.svg" alt="Figma" width="60" height="60" margin="0" padding="0"/> 
+  <img src="/stack-logos/webflow.svg" alt="Webflow" width="60" height="60" margin="0" padding="0"/> 
+</p>
+
