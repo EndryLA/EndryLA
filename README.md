@@ -4,7 +4,19 @@
 
 ### Tech Stack / Skills
 <p align="left">  
-  <img src="/stack-logos/angular.svg" alt="angular" width="40" height="40"/> 
   
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="/stack-logos/html" alt="HTML" width="40" height="40"/> 
+  <img src="/stack-logos/angular.svg" alt="Angular" width="40" height="40"/> 
+  <img src="/stack-logos/css.svg" alt="Angular" width="40" height="40"/> 
+  <img src="/stack-logos/angular.svg" alt="Angular" width="40" height="40"/> 
+  
+</p>
+
+<p align="left">  
+  
+  <img src="/stack-logos/html" alt="HTML" width="40" height="40"/> 
+  <img src="/stack-logos/angular.svg" alt="Angular" width="40" height="40"/> 
+  <img src="/stack-logos/css.svg" alt="Angular" width="40" height="40"/> 
+  <img src="/stack-logos/angular.svg" alt="Angular" width="40" height="40"/> 
+  
 </p>
