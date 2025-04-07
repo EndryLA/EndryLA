@@ -31,5 +31,4 @@ Tools
   <img src="/stack-logos/docker.svg" alt="Docker" width="60" height="60" margin="0" padding="0"/> 
   <img src="/stack-logos/postman.svg" alt="Postman" width="60" height="60" margin="0" padding="0"/> 
   <img src="/stack-logos/jira.svg" alt="Jira" width="60" height="60" margin="0" padding="0"/> 
-  <img src="/stack-logos/chatgpt.svg" alt="Chat GPT" width="60" height="60" margin="0" padding="0"/> 
 </p>
