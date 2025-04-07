@@ -1,6 +1,10 @@
-## Hi 👋, I'm Endry LUNDY
-### I'm a FullStack Developper from France, specialized in creating high performing & secured web apps.
+### Hi there👋, I'm Endry LUNDY
+### 💻 I'm a FullStack Developper from France, specialized in creating high performing & secured web apps with Java & Angular.
 
 
-## Tech Stack 
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### Tech Stack / Skills
+<p align="left">  
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+</p>
