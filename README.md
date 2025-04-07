@@ -3,7 +3,7 @@
 
 
 ### Tech Stack / Skills
-<p align="left" display="flex" gap="6px">  
+<p>  
   
   <img src="/stack-logos/html.svg" alt="HTML" width="60" height="60" margin="0" padding="0"/> 
   <img src="/stack-logos/css.svg" alt="Angular" width="60" height="60" margin="0" padding="0"/> 
