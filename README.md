@@ -33,10 +33,5 @@ I'm a FullStack Developper from France, specialized in creating beautiful, high 
   <img src="/stack-logos/jira.svg" alt="Jira" width="60" height="60" margin="0" padding="0"/> 
 </p>
 
-#### UX / UI Design
 
-<p align="left">  
-  <img src="/stack-logos/figma.svg" alt="Figma" width="60" height="60" margin="0" padding="0"/> 
-  <img src="/stack-logos/webflow.svg" alt="Webflow" width="60" height="60" margin="0" padding="0"/> 
-</p>
 
