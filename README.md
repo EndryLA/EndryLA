@@ -3,12 +3,12 @@
 
 
 ### Tech Stack / Skills
-<p align="left">  
+<p align="left" display="flex" gap="6px">  
   
-  <img src="/stack-logos/html" alt="HTML" width="40" height="40"/> 
-  <img src="/stack-logos/angular.svg" alt="Angular" width="40" height="40"/> 
-  <img src="/stack-logos/css.svg" alt="Angular" width="40" height="40"/> 
-  <img src="/stack-logos/angular.svg" alt="Angular" width="40" height="40"/> 
+  <img src="/stack-logos/html.svg" alt="HTML" width="40" height="40" margin="0" padding="0"/> 
+  <img src="/stack-logos/css.svg" alt="Angular" width="40" height="40" margin="0" padding="0"/> 
+  <img src="/stack-logos/javascript.svg" alt="Angular" width="40" height="40" margin="0" padding="0"/> 
+  <img src="/stack-logos/angular.svg" alt="Angular" width="40" height="40" margin="0" padding="0"/> 
   
 </p>
 
