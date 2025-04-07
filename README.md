@@ -5,10 +5,7 @@ I'm a FullStack Developper from France, specialized in creating beautiful, high 
 ### Tech Stack / Skills
 #### Front End
 <p>  
-  <p>
   <img src="/stack-logos/html.svg" alt="HTML" width="60" height="60" margin="0" padding="0"/>
-  HTML
-  </p>
   <img src="/stack-logos/css.svg" alt="CSS" width="60" height="60" margin="0" padding="0"/> 
   <img src="/stack-logos/javascript.svg" alt="Javascript" width="60" height="60" margin="0" padding="0"/> 
   <img src="/stack-logos/angular.svg" alt="Angular" width="60" height="60" margin="0" padding="0"/> 
