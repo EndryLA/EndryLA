@@ -4,7 +4,7 @@
 
 ### Tech Stack / Skills
 <p align="left">  
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
+  <img src="/stack-logos/angular.svg" alt="angular" width="40" height="40"/> 
   
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </p>
