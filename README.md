@@ -1,4 +1,4 @@
-### Hi there👋, I'm Endry Lundy (Yes like that dude from Dexter)
+### Hi there👋, I'm Endry Lundy (yes, like that dude from Dexter)
 I'm a trilingual FullStack Developper from France, specialized in creating beautiful, high performing & secured web apps with Java & Angular.
 
 
