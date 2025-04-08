@@ -1,4 +1,4 @@
-### Hi there👋, I'm Endry LUNDY
+## Hi there👋, I'm Endry LUNDY
 I'm a FullStack Developper from France, specialized in creating beautiful, high performing & secured web apps with Java & Angular.
 
 
