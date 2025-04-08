@@ -20,5 +20,8 @@ I'm a FullStack Developper from France, specialized in creating beautiful, high 
   <img src="/stack-logos/jira.svg" alt="Jira" width="50" height="50" margin="0" padding="0"/> 
 </p>
 
+### Stats
+![](https://nirzak-streak-stats.vercel.app/?user=EndryLa&theme=dark&hide_border=true)<br/>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
