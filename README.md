@@ -1,9 +1,9 @@
 ### Hi there👋, I'm Endry Lundy
 
 #### About me
-- 💻 I'm a trilingual FullStack Developper from Paris (I actually enjoy programming, not just a buzzword for me)
-- ⚙️ I'm Specialized in Java / Angular (With a magical touch of UX/UI Design)
-- ✨ I’m all about clean code, smooth interfaces, and projects that actually make sense
+<p>💻 I'm a trilingual FullStack Developper from Paris (I actually enjoy programming, not just a buzzword for me)<p/>
+<p>⚙️ I'm Specialized in Java / Angular (With a magical touch of UX/UI Design)<p/>
+<p>✨ I’m all about clean code, smooth interfaces, and projects that actually make sense<p/>
 
 
 #### Tech Stack / Skills
