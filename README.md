@@ -3,7 +3,6 @@ I'm a FullStack Developper from France, specialized in creating beautiful, high 
 
 
 ### Tech Stack / Skills
-#### Front End
 <p>  
   <img src="/stack-logos/html.svg" alt="HTML" width="50" height="50" margin="0" padding="0"/>
   <img src="/stack-logos/css.svg" alt="CSS" width="50" height="50" margin="0" padding="0"/> 
