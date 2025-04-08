@@ -1,8 +1,8 @@
-## Hi there👋, I'm Endry LUNDY
+### Hi there👋, I'm Endry LUNDY
 I'm a trilingual FullStack Developper from France, specialized in creating beautiful, high performing & secured web apps with Java & Angular.
 
 
-### Tech Stack / Skills
+#### Tech Stack / Skills
 <p>  
   <img src="/stack-logos/html.svg" alt="HTML" width="50" height="50" margin="0" padding="0"/>
   <img src="/stack-logos/css.svg" alt="CSS" width="50" height="50" margin="0" padding="0"/> 
@@ -20,7 +20,7 @@ I'm a trilingual FullStack Developper from France, specialized in creating beaut
   <img src="/stack-logos/jira.svg" alt="Jira" width="50" height="50" margin="0" padding="0"/> 
 </p>
 
-### Stats
+#### Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=EndryLa&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EndryLa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
