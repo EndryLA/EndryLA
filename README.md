@@ -22,6 +22,5 @@ I'm a trilingual FullStack Developper from France, specialized in creating beaut
 
 ### Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=EndryLa&theme=dark&hide_border=true)<br/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EndryLa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
