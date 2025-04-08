@@ -1,5 +1,9 @@
-### Hi there👋, I'm Endry Lundy (yes, like that dude from Dexter)
-I'm a trilingual FullStack Developper from France, specialized in creating beautiful, high performing & secured web apps with Java & Angular.
+### Hi there👋, I'm Endry Lundy
+
+#### About me
+- 💻 I'm a trilingual FullStack Developper from Paris (I actually enjoy programming, not just a buzzword for me)
+- ⚙️ I'm Specialized in Java / Angular (With a magical touch of UX/UI Design)
+- ✨ I’m all about clean code, smooth interfaces, and projects that actually make sense
 
 
 #### Tech Stack / Skills
@@ -24,3 +28,6 @@ I'm a trilingual FullStack Developper from France, specialized in creating beaut
 ![](https://nirzak-streak-stats.vercel.app/?user=EndryLa&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EndryLa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+#### 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/endry-lundy)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=firefox-browser)](https://endrylundy.com)
