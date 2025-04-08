@@ -10,22 +10,12 @@ I'm a FullStack Developper from France, specialized in creating beautiful, high 
   <img src="/stack-logos/javascript.svg" alt="Javascript" width="50" height="50" margin="0" padding="0"/> 
   <img src="/stack-logos/angular.svg" alt="Angular" width="50" height="50" margin="0" padding="0"/> 
   <img src="/stack-logos/bootstrap.svg" alt="Bootstrap" width="50" height="50" margin="0" padding="0"/> 
-</p>
-
-#### Back End
-
-<p align="left">  
   <img src="/stack-logos/java.svg" alt="Java" width="50" height="50" margin="0" padding="0"/> 
   <img src="/stack-logos/springboot.svg" alt="Spring Boot" width="50" height="50" margin="0" padding="0"/> 
   <img src="/stack-logos/mysql.svg" alt="MySQL" width="50" height="50" margin="0" padding="0"/> 
   <img src="/stack-logos/mongodb.svg" alt="MongoDB" width="50" height="50" margin="0" padding="0"/> 
   <img src="/stack-logos/nodejs.svg" alt="Nodejs" width="50" height="50" margin="0" padding="0"/> 
-  <img src="/stack-logos/express.svg" alt="Express" width="50" height="50" margin="0" padding="0"/> 
-</p>
-
-#### Tools
-
-<p align="left">  
+  <img src="/stack-logos/express.svg" alt="Express" width="50" height="50" margin="0" padding="0"/>  
   <img src="/stack-logos/git.svg" alt="Git" width="50" height="50" margin="0" padding="0"/> 
   <img src="/stack-logos/github.svg" alt="Github" width="50" height="50" margin="0" padding="0"/> 
   <img src="/stack-logos/docker.svg" alt="Docker" width="50" height="50" margin="0" padding="0"/> 
