@@ -3,7 +3,7 @@
 ### About me
 <p>💻 I'm a trilingual FullStack Developper from Paris (I actually enjoy programming, not just a buzzword for me)<p/>
 <p>⚙️ I'm Specialized in Java / Angular development (With a magical touch of UX/UI Design)<p/>
-<p>✨ I’m all about clean code, smooth interfaces, and projects that actually make sense<p/>
+<p>✨ I’m all about clean code, smooth interfaces, and projects that actually make sense.<p/>
 
 
 ### Main Stack
