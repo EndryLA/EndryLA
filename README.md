@@ -30,8 +30,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1920px-Spring_Boot.svg.png" height="40" alt="spring boot logo"  />
   <img width="12" />
   <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="40" alt="postgresql logo" />
-  <img width="12">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/940px-Figma-logo.svg.png?_=20250625151003" height="40" alt="NodeJs Logo">
 </div>
 
 <img height="20" />
